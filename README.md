@@ -1,0 +1,2 @@
+# story2
+same
